@@ -6,7 +6,8 @@
 
 ## 🔗 Connect with me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ishita-gupta-6531162a1/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ishita-gupta-6531162a1/
+- 🌐 **Portfolio:** https://ishi-portfolio-beta.vercel.app/
 - 📧 **Email:** ishii.g2006@gmail.com  
 
 ---
