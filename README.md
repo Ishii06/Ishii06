@@ -25,4 +25,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwindcss,express,next,nodejs,mongodb,postgres,supabase,firebase,redis,java,python,opencv,fastapi,tensorflow,pytorch,scikitlearn,git,github,vercel,render,keras,matplotlib,numpy,pandas,jwt,nodemon" />
 </p>
----
